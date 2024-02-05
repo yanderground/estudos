@@ -20,7 +20,7 @@ Exemplos:
 # print("qual seu nome?")
 # nome = input() #Input -> entrada de dados
 
-nome = input('Qual seu nome? ' )
+nome = input('Qual seu nome? ')
 
 # exemplo de print 'antigo' v2.x
 # print('Seja bem vindo(a) %s' % nome)
