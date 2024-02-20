@@ -11,7 +11,7 @@ if(idade < 18){
 }else if(idade == 18){
     printf("tem 18 anos");
 }else{
-    printf("é menor de idade");
+    printf("é maior de idade");
 """
 """
 Estrutura condicional if, else, em java
