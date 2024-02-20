@@ -19,7 +19,7 @@ nome = 'Sarah \nAndreli'
 print(nome)
 print(type(nome))
 
-nome = 'Sarah \"Andreli'
+nome = 'Sarah \'Andreli'
 print(nome)
 print(type(nome))
 
@@ -27,7 +27,7 @@ print(nome.upper())
 
 print(nome.lower())
 
-print(nome.split()) -> Transforma em uma lista de springs
+print(nome.split()) -> Transforma em uma lista de strings
 
 print(nome[0:5]) # Slice de string
 
